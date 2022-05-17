@@ -1,1 +1,1 @@
-# OSINTbrowserextentions
+# Browser extentions for OSINT
