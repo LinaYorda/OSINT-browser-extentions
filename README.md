@@ -10,5 +10,4 @@
 * [Sputnik](https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd?hl=com) : Quickly and easily search for IPs, Domains, File Hashes, and URLs.
 * [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?hl=com) : Shodan collects information about IP, DNS, FTP, DNS, SSH or some unusual service of any website. 
 * [Builtwith](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=com) : BuiltWith Technology Profiler shows what a website is built with. 
-* [Builtwith]([https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=com]
-* (https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=com) : BuiltWith Technology Profiler shows what a website is built with.
+* [Hunter](https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=com) : Find email addresses from anywhere on the web.
