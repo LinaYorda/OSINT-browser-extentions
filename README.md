@@ -20,4 +20,9 @@
 
 ## <a title="Mozilla Corporation, MPL 2 &lt;https://www.mozilla.org/en-US/MPL/2.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Firefox_logo,_2019.svg"><img width="64" alt="Firefox logo, 2019" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/64px-Firefox_logo%2C_2019.svg.png"></a>
 
-* [Simplescraper](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) : Scrape website data and table data in seconds. 
+* [Facebook Instagram OSINT](https://addons.mozilla.org/en-GB/firefox/addon/facebook-instagram-osint/) : get Facebook/Instagram IDs, phone numbers, emails. 
+* [SingleFile](https://addons.mozilla.org/en-GB/firefox/addon/single-file/) : save an entire web page—including images and styling—as a single HTML file. 
+* [Clear Browsing Data](https://addons.mozilla.org/en-GB/firefox/addon/clear-browsing-data/) : delete browsing data directly from the browser toolbar.
+* [Search by Image](https://addons.mozilla.org/en-GB/firefox/addon/search_by_image/) : a powerful reverse image search tool.
+* [Wayback Machine](https://addons.mozilla.org/en-GB/firefox/addon/wayback-machine_new/) : go back in time to see how a website has changed through the history of the Web.
+* [Wayback Machine](https://addons.mozilla.org/en-GB/firefox/addon/wayback-machine_new/) : go back in time to see how a website has changed through the history of the Web.
