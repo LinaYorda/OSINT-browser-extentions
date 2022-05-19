@@ -1,6 +1,6 @@
 # Browser extentions for OSINT
 
-
+I added a list of Chrome & Mozilla browser extensions for fact-checking, image search, and data. 
 
 ## <a title="Google, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Google_Chrome_icon_(February_2022).svg"><img width="64" alt="Google Chrome icon (February 2022)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/512px-Google_Chrome_icon_%28February_2022%29.svg.png"></a>
 
@@ -25,5 +25,4 @@
 * [Clear Browsing Data](https://addons.mozilla.org/en-GB/firefox/addon/clear-browsing-data/) : delete browsing data directly from the browser toolbar.
 * [Search by Image](https://addons.mozilla.org/en-GB/firefox/addon/search_by_image/) : a powerful reverse image search tool.
 * [Wayback Machine](https://addons.mozilla.org/en-GB/firefox/addon/wayback-machine_new/) : go back in time to see how a website has changed through the history of the Web.
-* [Reverse Image Search](https://addons.mozilla.org/en-GB/firefox/addon/image-reverse-search/) : adds an option to the context menu to search with an image on Google, Bing, Yandex, TinEye, SauceNAO, IQDB.
-* 
+* [TinEye Reverse Image Search](https://addons.mozilla.org/en-GB/firefox/addon/tineye-reverse-image-search/) : reverse image search engine that allows you to search by image. 
