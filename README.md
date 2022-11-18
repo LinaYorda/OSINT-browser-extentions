@@ -16,7 +16,7 @@ I added a list of Chrome & Mozilla browser extensions for fact-checking, image s
 * [IP Address & Domain Information](https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa) : detailed information about every IP Address, Domain Name and Provider.
 * [Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) : instant data scraper extracts data from web pages and exports it as Excel or CSV files.
 * [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) : official Google translation extension. Translate everything on the web. 
-* [Simplescraper](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) : Scrape website data and table data in seconds. 
+* [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-getdataio/ofncgcgajhgnbkbmkdhbgkoopfbemhfj) : Scrape website data and table data in seconds. 
 
 ## <a title="Mozilla Corporation, MPL 2 &lt;https://www.mozilla.org/en-US/MPL/2.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Firefox_logo,_2019.svg"><img width="64" alt="Firefox logo, 2019" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/64px-Firefox_logo%2C_2019.svg.png"></a>
 
